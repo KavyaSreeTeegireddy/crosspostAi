@@ -297,3 +297,9 @@ For issues and questions:
 1. Check the troubleshooting section
 2. Review Firebase and Gemini AI documentation
 3. Open GitHub issue with detailed error information
+
+
+
+
+
+Youtube Demo link: https://youtu.be/E08R4KcmTAc?si=I6U6G5Eyj-zWjPb4
